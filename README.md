@@ -12,3 +12,5 @@ DAY4 = Buy two chocolates such that we do not go indebt and also we have no nonn
 DAY5 = Remove the  dedicated element from the list.
 
 DAY6 = To find the length of the last word in the given string. 
+
+DAY7 = Find the index of the target element and also if not present than find the position where we can insert it as the array is in order
