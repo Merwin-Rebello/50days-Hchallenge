@@ -18,3 +18,5 @@ DAY7 = Find the index of the target element and also if not present than find th
 DAY8 = To find the perfect square and also the square root of the given number.
 
 DAY9 = Convert integer to roman number.
+
+DAY10 = Given an integer check if it is the power of two.
