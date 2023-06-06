@@ -20,3 +20,5 @@ DAY8 = To find the perfect square and also the square root of the given number.
 DAY9 = Convert integer to roman number.
 
 DAY10 = Given an integer check if it is the power of two.
+
+DAY11 = Number of senior citizens in the given array(Q)number of senior citizens)
