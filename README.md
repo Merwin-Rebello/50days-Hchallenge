@@ -26,3 +26,5 @@ DAY11 = Number of senior citizens in the given array(Q)number of senior citizens
 DAY12 = Single number.
 
 DAY13 = Maximum depth of binary tree.
+
+DAY14 = First occurence in the string.
