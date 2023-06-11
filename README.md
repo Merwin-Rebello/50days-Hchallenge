@@ -30,3 +30,5 @@ DAY13 = Maximum depth of binary tree.
 DAY14 = First occurence in the string.
 
 DAY15 = Find Smallest Letter Greater Than Target.
+
+DAY16 = Plus one
