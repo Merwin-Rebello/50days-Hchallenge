@@ -32,3 +32,5 @@ DAY14 = First occurence in the string.
 DAY15 = Find Smallest Letter Greater Than Target.
 
 DAY16 = Plus one
+
+DAY17 = Average Salary Excluding the Minimum and Maximum Salary.
