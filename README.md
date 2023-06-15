@@ -37,3 +37,5 @@ DAY17 = Average Salary Excluding the Minimum and Maximum Salary.
 
 DAY18 = Best Time to Buy and Sell Stock
 
+DAY19 = Power of Three and Power of Four.
+
