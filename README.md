@@ -43,4 +43,7 @@ DAY20 = Climbing stairs
 
 DAY21 = list comprehensions.
 
-DAY22 - Valid Parenthesis
+DAY22 = Valid Parenthesis
+
+DAY23 = Unique Number of Occurrences
+
