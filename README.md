@@ -47,3 +47,6 @@ DAY22 = Valid Parenthesis
 
 DAY23 = Unique Number of Occurrences
 
+DAY24 = Check if The Number is Fascinating
+
+
