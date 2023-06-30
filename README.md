@@ -60,3 +60,5 @@ DAY28 = Binary Tree Inorder Traversal.
 DAY29 =  Binary Tree Preorder Traversal. 
 
 DAY30 =  Binary Tree Postorder Traversal.
+
+DAY31 = Majority element
