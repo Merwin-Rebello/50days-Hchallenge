@@ -62,3 +62,5 @@ DAY29 =  Binary Tree Preorder Traversal.
 DAY30 =  Binary Tree Postorder Traversal.
 
 DAY31 = Majority element
+
+DAY32 = Convert Sorted Array to Binary Search Tree
