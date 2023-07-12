@@ -70,3 +70,5 @@ DAY33 = Single Number II
 DAY34 = Search in Rotated Sorted Array
 
 DAY35 = Counter II
+
+DAY36 = Did IP(internet programming ) activity-1.
