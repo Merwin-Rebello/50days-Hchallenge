@@ -72,3 +72,5 @@ DAY34 = Search in Rotated Sorted Array
 DAY35 = Counter II
 
 DAY36 = Did IP(internet programming ) activity-1.
+
+DAY37 = Third maximum number
