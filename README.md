@@ -74,3 +74,9 @@ DAY35 = Counter II
 DAY36 = Did IP(internet programming ) activity-1.
 
 DAY37 = Third maximum number
+
+DAY38 = Revised python for django framework revsion
+
+DAY39 = Started  revising
+
+DAY40 = Revised till dynamic rendering in django
