@@ -80,3 +80,5 @@ DAY38 = Revised python for django framework revsion
 DAY39 = Started  revising
 
 DAY40 = Revised till dynamic rendering in django
+
+DAY41 = Created a weather app using api and django framework.
