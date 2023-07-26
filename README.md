@@ -84,3 +84,5 @@ DAY40 = Revised till dynamic rendering in django
 DAY41 = Created a weather app using api and django framework.
 
 DAY42 = learnt about django rest frame work.
+
+DAY43 = Started learning  Tailwind CSS.
