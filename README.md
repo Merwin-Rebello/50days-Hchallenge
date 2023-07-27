@@ -85,4 +85,6 @@ DAY41 = Created a weather app using api and django framework.
 
 DAY42 = learnt about django rest frame work.
 
+DAY43 = Created a simple landing page using tailwindcss.
+
 DAY43 = Started learning  Tailwind CSS.
