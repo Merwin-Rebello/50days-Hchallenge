@@ -91,3 +91,5 @@ DAY43 = Started learning  Tailwind CSS.
 
 DAY44 = Started miniproject work
 
+DAY45 =  went more into tailwind css and learnt about responsivenesss also did miniproject work
+
