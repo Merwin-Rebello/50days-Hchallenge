@@ -93,3 +93,12 @@ DAY44 = Started miniproject work
 
 DAY45 =  went more into tailwind css and learnt about responsivenesss also did miniproject work
 
+DAY46 = Continued with the miniproject work.
+
+DAY47 = Learnt more of tailwind css.
+
+DAY48 = learnt basics of figma designing and tailwind continued.
+
+DAY49 = Continued with miniproject
+
+DAY50 = Continued with miniproject
